@@ -1,0 +1,9 @@
+{
+    "SessionID" : 1,
+    "SessionValid" : "true",
+    "Stats": {
+        "Bus" : "BusName"
+    },
+    "FilePath": "CANLOG.csv"
+}
+
